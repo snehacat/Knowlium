@@ -112,7 +112,7 @@ Automatically detects and optimizes for **12+ document types**:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/knowlium.git
+git clone https://github.com/snehacat/knowlium.git
 cd knowlium
 ```
 
